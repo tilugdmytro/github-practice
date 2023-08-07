@@ -1,1 +1,1 @@
-# github-practice
+# git terminal-practice
